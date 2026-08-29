@@ -49,32 +49,28 @@ This project allows users to create, search, edit, delete, and list contacts. It
 - `README.md` — Project documentation
 
 ---
-
 ## ▶️ How to Run
 
 ### 1. Clone the repository
 
-`git clone https://github.com/varsha1907-m/Address-Book.git`
+```bash
+git clone https://github.com/varsha1907-m/Address-Book.git
+cd Address-Book
+2. Compile the program
+gcc *.c -o addressbook
+3. Run the program
+./addressbook
+4. Use the menu
 
-`cd Address-Book`
+The program provides the following options:
 
-### 2. Compile the program
-
-`gcc main.c contact.c file.c -o addressbook`
-
-### 3. Run the program
-
-`./addressbook`
-
-### 4. Use the menu
-
-1. Create a contact
-2. Search a contact
-3. Edit a contact
-4. Delete a contact
-5. List all contacts
-6. Save and Exit
-7. Exit
+Create a contact
+Search a contact
+Edit a contact
+Delete a contact
+List all contacts
+Save and Exit
+Exit
 
 ---
 
