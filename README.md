@@ -106,7 +106,7 @@ Screenshots of the working Address Book application will be added here.
 
 ### 🏠 Main Menu
 
-*Screenshot will be added here.*
+![Main Menu](main-menu.png)
 
 ### 🔍 Search Contact
 
