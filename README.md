@@ -114,7 +114,7 @@ Screenshots of the working Address Book application are shown below.
 
 ### ✏️ Edit Contact
 
-*Screenshot will be added here.*
+![Edit Contact](edit-contact.png)
 
 ### 🗑️ Delete Contact
 
