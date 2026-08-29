@@ -102,7 +102,7 @@ The objective of this project is to develop a simple and efficient console-based
 
 ## 📸 Screenshots
 
-Screenshots of the working Address Book application will be added here.
+Screenshots of the working Address Book application are shown below.
 
 ### 🏠 Main Menu
 
