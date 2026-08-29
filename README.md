@@ -122,7 +122,7 @@ Screenshots of the working Address Book application are shown below.
 
 ### 📋 List Contacts
 
-*Screenshot will be added here.*
+![List Contacts](list-contacts.png)
 
 ---
 
