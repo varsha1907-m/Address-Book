@@ -1,0 +1,4 @@
+mahadevaswamy|1234567893|swamy@gmail.com
+mokshi|1234567892|mokshi@gmail.com
+roopa|1234567890|roopa@gmail.com
+varsha|1234567891|varsha@gmail.com
