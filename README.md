@@ -49,6 +49,7 @@ This project allows users to create, search, edit, delete, and list contacts. It
 - `README.md` — Project documentation
 
 ---
+
 ## ▶️ How to Run
 
 ### 1. Clone the repository
@@ -56,21 +57,32 @@ This project allows users to create, search, edit, delete, and list contacts. It
 ```bash
 git clone https://github.com/varsha1907-m/Address-Book.git
 cd Address-Book
-2. Compile the program
+```
+
+### 2. Compile the program
+
+```bash
 gcc *.c -o addressbook
-3. Run the program
+```
+
+### 3. Run the program
+
+```bash
 ./addressbook
-4. Use the menu
+```
+
+### 4. Use the menu
 
 The program provides the following options:
 
-Create a contact
-Search a contact
-Edit a contact
-Delete a contact
-List all contacts
-Save and Exit
-Exit
+1. Create a contact
+2. Search a contact
+3. Edit a contact
+4. Delete a contact
+5. List all contacts
+6. Save and Exit
+7. Exit
+
 
 ---
 
