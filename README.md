@@ -110,7 +110,7 @@ Screenshots of the working Address Book application are shown below.
 
 ### 🔍 Search Contact
 
-*Screenshot will be added here.*
+![Search Contact](search-contact.png)
 
 ### ✏️ Edit Contact
 
