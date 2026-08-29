@@ -118,7 +118,7 @@ Screenshots of the working Address Book application are shown below.
 
 ### 🗑️ Delete Contact
 
-*Screenshot will be added here.*
+![Delete Contact](delete-contact.png)
 
 ### 📋 List Contacts
 
