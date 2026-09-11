@@ -45,7 +45,7 @@ This project allows users to create, search, edit, delete, and list contacts. It
 - `contact.h` — Contact structures and function declarations
 - `file.c` — File saving and loading
 - `file.h` — File handling declarations
-- `contacts.txt` — Stored contact information
+- `contacts.csv` — Stored contact information
 - `README.md` — Project documentation
 
 ---
